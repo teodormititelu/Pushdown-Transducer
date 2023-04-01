@@ -1,0 +1,9 @@
+q2
+q1
+q2 @ $ q0 @ push(S)
+q0 @ S q0 1 pop,push(S),push(a),push(S),push(b)
+q0 @ S q0 2 pop,push(S),push(b),push(S),push(a)
+q0 @ S q0 3 pop
+q0 a a q0 @ pop
+q0 b b q0 @ pop
+q0 @ $ q1 @
